@@ -1,4 +1,3 @@
-# Techpreneurship-Centre-Coding-Challenge
 
 
 
